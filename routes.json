@@ -1,0 +1,14 @@
+[
+  {
+    "name": "bestsellers",
+    "path": "/bestsellers",
+    "component": "C:\\\\Users\\\\lecon\\\\OneDrive\\\\Área de Trabalho\\\\saravava\\\\my-nuxt-app\\\\pages\\\\bestsellers\\\\index.vue",
+    "chunkName": "pages/bestsellers/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\lecon\\\\OneDrive\\\\Área de Trabalho\\\\saravava\\\\my-nuxt-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

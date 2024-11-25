@@ -1,0 +1,17 @@
+{
+  "BestSellers": {
+    "description": "Auto imported from components/BestSellers.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Login": {
+    "description": "Auto imported from components/Login.vue"
+  },
+  "Magic": {
+    "description": "Auto imported from components/Magic.vue"
+  },
+  "Sales": {
+    "description": "Auto imported from components/Sales.vue"
+  }
+}
